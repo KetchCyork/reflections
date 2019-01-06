@@ -1,0 +1,2 @@
+When would you want to create a remote repo versus keeping all of the work local?
+- When you want to share your work with others.  Creating the remote repo will allow others to see your work, clone it, and contribute
