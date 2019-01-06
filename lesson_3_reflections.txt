@@ -1,2 +1,10 @@
 When would you want to create a remote repo versus keeping all of the work local?
 - When you want to share your work with others.  Creating the remote repo will allow others to see your work, clone it, and contribute
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+- This allows you to know what you changed since the last time you did a pull requestAnimFrame
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+- Forks is a github feature to copy and change a repo when you don't have permission to change content from the owner of the repo
+- clone allows you to clone a remote repo locally and work offline on your local computer
+- branches allow you to make changes to code without impacting the production version, thus testing changes before merging them
