@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+When you initialize a repository a .git file is created.  You run the command git init.
